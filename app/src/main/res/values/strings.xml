@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Ybzx</string>
+    <string name="app_name">永不止息-主内婚恋网</string>
 
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">设置</string>
 </resources>
